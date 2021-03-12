@@ -67,7 +67,7 @@ services:
       timeout: 2s
       retries: 5
   haproxy:
-    image: haproxy:2.1.2
+    image: haproxy:2.3.6
     ports:
       - "9600"
     volumes:
