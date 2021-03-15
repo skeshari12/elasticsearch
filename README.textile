@@ -211,6 +211,10 @@ See the "TESTING":TESTING.asciidoc file for more information about running the E
 
 h3. Upgrading from Elasticsearch 1.x?
 
+## Sonatype DepShield
+
+[![DepShield Badge](https://depshield.sonatype.org/badges/skeshari12/elasticsearch/depshield.svg)](https://depshield.github.io)
+
 In order to ensure a smooth upgrade process from earlier versions of
 Elasticsearch (1.x), it is required to perform a full cluster restart. Please
 see the "setup reference":
